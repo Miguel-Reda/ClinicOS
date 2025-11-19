@@ -1,0 +1,1 @@
+namespace ClinicOS.Core.Enums; public enum VisitStatus { Waiting = 0, Serving = 1, Completed = 2, Cancelled = 3 }
